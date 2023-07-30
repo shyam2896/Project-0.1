@@ -1,1 +1,14 @@
-# Project-0.1
+HOME
+ABOUT
+SERVICES
+PORTFOLIO
+TESTIMONIALS
+CONTACT
+
+
+Kevin Petter
+I am W|
+lorem 20
+
+VIEW MY WORK
+
